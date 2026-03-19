@@ -1,2 +1,3 @@
-# flex-e-learning-unip
+# Flex E Learning Unip
+
 A repository to test GitHub automation for issue management.
